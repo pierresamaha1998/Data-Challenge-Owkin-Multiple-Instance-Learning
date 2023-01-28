@@ -1,1 +1,1 @@
-# Multiple-Instance-Learning---Data-Challenge---Owkin
+# Multiple-Instance-Learning-Data-Challenge-Owkin
