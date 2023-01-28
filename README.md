@@ -25,7 +25,7 @@ The two main challenges were:
 - About 340 patients. This is a small number compared to the number of patients we want to analyze with our algorithm after its deployment. 
 
 #### Getting started
-The notebook below, provided by google collab, includes model creation, and model training.
+The notebook below, provided by google collab.
 
 
 | Description       | Google Colab                                                              |
